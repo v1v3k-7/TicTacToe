@@ -15,6 +15,8 @@ This repository serves as:
 - A reference for revision  
 - A way to track my progress in Java
 
+## 📸 Screenshot
+![Screenshot]()
 ## 🤝 Contributions
 This is mainly for personal practice, but suggestions are always welcome.
 
