@@ -16,7 +16,9 @@ This repository serves as:
 - A way to track my progress in Java
 
 ## 📸 Screenshot
-![Screenshot]()
+<p align="center">
+  <img src="screenshot/Screenshot_2025-12-20_181104.png" width="400"/>
+</p>
 ## 🤝 Contributions
 This is mainly for personal practice, but suggestions are always welcome.
 
